@@ -14,4 +14,4 @@ int main() {
     cout << "Remainder: " << num1 % num2 << endl;
 
     return 0;
-}
+ }
